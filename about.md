@@ -6,10 +6,4 @@ permalink: /about/
 
 This is a project made from materials learned from Codecademy [codecademy.com](https://www.codecademy.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I made this webapge as a summer project from resources I learned from Codecademy. I am currently enrolled in the University of Virginia as a second year student majoring in computer science. 
