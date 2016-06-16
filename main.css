@@ -19,7 +19,7 @@ h2 {
 .hero {
 	background-image: url('http://www.virginia.edu/academicalvillage/images/photo.jpg');
 	background-position: center top;
-	background-size: all;
+	background-size: cover;
 	text-shadow: 0 2px #000000;
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
