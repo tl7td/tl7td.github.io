@@ -1,5 +1,4 @@
 body {
-	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
 	text-align: center;
@@ -8,37 +7,32 @@ body {
 
 h1 {
 	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
 }
 
 h2 {
-	color: #ffffff;
-	font-size: 56px; 
+	font-size: 56px;
 }
 
 
 .hero {
-	background-image: url('http://www.virginia.edu/sites/default/files/styles/story_telling_hero_desktop/public/t3_story_hero_9.jpg?itok=x4ntFKRU&timestamp=1444674538');
-	background-position: center top;
-	background-size: cover;
-	padding: 250px 0;
-	margin: 30px;
-	text-shadow: 0 2px #000000;
-	font-family: 'Trebuchet MS', 'Helvetica';
+	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+  color: #ffffff
 }
 
 
-p {	
-	color: #ffffff;
-	font-size: 2em;
+p {
+font-size: 2rem;
 }
 
 .hero a {
 	color: #00FFAA;
-	font-size: 24px;
+	font-size: 1.25em;
 	text-decoration: none;
 }
 
 #footer {
-	color: DarkSlateGray;
-	font-size: 16px;
+  font-size:0.75rem;
 }
