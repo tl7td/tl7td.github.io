@@ -22,7 +22,7 @@ h2 {
 	background-size: cover;
 	padding: 250px 0;
 	margin: 30px;
-	<text-shadow: 0 2px #000000>;
+	text-shadow: 0 2px;
 	font-family: 'Trebuchet MS', 'Helvetica';
 }
 
