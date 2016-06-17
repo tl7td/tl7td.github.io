@@ -9,7 +9,7 @@
 title: Project Portfolio
 email: tdlam112796@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Small webpage project.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.tl7td.me" # the base hostname & protocol for your site
 twitter_username: _TommyDL_
