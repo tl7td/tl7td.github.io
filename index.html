@@ -18,4 +18,19 @@
     </div>
   </section>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  
+  <footer class="container">
+    <div class="row">
+	{% if site.github_username %}
+        <li class="col-sm-1">
+          {% include icon-github.html username=site.github_username %}
+        </li>
+          {% endif %}
+          
+        {% if site.twitter_username %}
+        <li class="col-sm-1">
+          {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+          {% endif %}
+     </div>
 </body>
